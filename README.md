@@ -1,0 +1,1 @@
+A RESTful API built to manage [Resource, e.g., Users/Books] using CRUD (Create, Read, Update, Delete) operations. This project demonstrates proper HTTP status code handling for client/server communication
